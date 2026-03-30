@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>12345678</string>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.CEA8BC54-9B12-4122-AC3E-1243A5CD3A12</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>CEA8BC54-9B12-4122-AC3E-1243A5CD3A12</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>Guest</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Wifi</string>
+	<key>PayloadIdentifier</key>
+	<string>Ihors-MacBook-Pro.AE3CD321-8B2B-48ED-9C8E-F45B63FA1BB1</string>
+	<key>PayloadOrganization</key>
+	<string>Home</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>B3F0E1C8-F455-4069-A193-B19326D3FCC2</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
